@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://codewithshahnawaz.github.io/csb-uqnz4/static/js/main.205485f7.chunk.js",
+    "main.js.map": "https://codewithshahnawaz.github.io/csb-uqnz4/static/js/main.205485f7.chunk.js.map",
+    "runtime-main.js": "https://codewithshahnawaz.github.io/csb-uqnz4/static/js/runtime-main.3c1e59e7.js",
+    "runtime-main.js.map": "https://codewithshahnawaz.github.io/csb-uqnz4/static/js/runtime-main.3c1e59e7.js.map",
+    "static/js/2.c792f645.chunk.js": "https://codewithshahnawaz.github.io/csb-uqnz4/static/js/2.c792f645.chunk.js",
+    "static/js/2.c792f645.chunk.js.map": "https://codewithshahnawaz.github.io/csb-uqnz4/static/js/2.c792f645.chunk.js.map",
+    "index.html": "https://codewithshahnawaz.github.io/csb-uqnz4/index.html",
+    "static/js/2.c792f645.chunk.js.LICENSE.txt": "https://codewithshahnawaz.github.io/csb-uqnz4/static/js/2.c792f645.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c1e59e7.js",
+    "static/js/2.c792f645.chunk.js",
+    "static/js/main.205485f7.chunk.js"
+  ]
+}
